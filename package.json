@@ -32,7 +32,13 @@
     "prepack": "pnpm build",
     "prepublish": "pnpm build"
   },
-  "keywords": [],
+  "keywords": [
+    "rdap",
+    "whois",
+    "domain",
+    "domain-whois",
+    "icann"
+  ],
   "devDependencies": {
     "@types/lodash": "^4.17.16",
     "@types/node": "^22.13.9",
