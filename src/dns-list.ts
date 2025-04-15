@@ -636,6 +636,10 @@ export const dnsList = [
     "server": "https://rdap.centralnic.com/zuerich/"
   },
   {
+    "tld": "jnj",
+    "server": "https://rdap.centralnicregistry.com/jnj/"
+  },
+  {
     "tld": "xn--55qw42g",
     "server": "https://rdap.conac.cn/"
   },
@@ -646,6 +650,10 @@ export const dnsList = [
   {
     "tld": "crown",
     "server": "https://rdap.crown.fury.ca/rdap/"
+  },
+  {
+    "tld": "pl",
+    "server": "https://rdap.dns.pl/"
   },
   {
     "tld": "eco",
@@ -3252,10 +3260,6 @@ export const dnsList = [
     "server": "https://rdap.nic.jmp/"
   },
   {
-    "tld": "jnj",
-    "server": "https://rdap.nic.jnj/"
-  },
-  {
     "tld": "joburg",
     "server": "https://rdap.nic.joburg/rdap/"
   },
@@ -3490,6 +3494,10 @@ export const dnsList = [
   {
     "tld": "pfizer",
     "server": "https://rdap.nic.pfizer/"
+  },
+  {
+    "tld": "pg",
+    "server": "https://rdap.nic.pg/"
   },
   {
     "tld": "philips",
@@ -4488,6 +4496,10 @@ export const dnsList = [
     "server": "https://rdap.verisign.com/net/v1/"
   },
   {
+    "tld": "ye",
+    "server": "https://rdap.y.net.ye/"
+  },
+  {
     "tld": "xn--45q11c",
     "server": "https://rdap.zdnsgtld.com/XN--45Q11C/"
   },
@@ -4742,5 +4754,9 @@ export const dnsList = [
   {
     "tld": "trust",
     "server": "https://whois.uniregistry.net/rdap/"
+  },
+  {
+    "tld": "in",
+    "server": "https://rdap.registry.in/"
   }
 ];
